@@ -38,7 +38,7 @@ cd assignment-5-Rishika-28
 - Visualize clusters and inspect data veracity issues (noise, outliers, overlapping labels)
 
 ## Notes
-1. The dataset (arff and xml files) have been uploaded in the data folder. The notebook contains how to download it from the source but if wished to proceed with the uploaded data, the step may be skipped.
+1. The dataset (arff and xml files) have been uploaded in the data folder. The notebook also contains information on how to download it from the source.
 2. t-SNE and Isomap can be computationally intensive for very large datasets. For this dataset size, typical execution times are manageable.
 
 ## Requirements
